@@ -1,0 +1,7 @@
+E:\Semester 6\C#\Lab Task\Final second lab\bin\Debug\Final second lab.exe.config
+E:\Semester 6\C#\Lab Task\Final second lab\bin\Debug\Final second lab.exe
+E:\Semester 6\C#\Lab Task\Final second lab\bin\Debug\Final second lab.pdb
+E:\Semester 6\C#\Lab Task\Final second lab\obj\Debug\Final second lab.csprojAssemblyReference.cache
+E:\Semester 6\C#\Lab Task\Final second lab\obj\Debug\Final second lab.csproj.CoreCompileInputs.cache
+E:\Semester 6\C#\Lab Task\Final second lab\obj\Debug\Final second lab.exe
+E:\Semester 6\C#\Lab Task\Final second lab\obj\Debug\Final second lab.pdb

@@ -1,0 +1,10 @@
+E:\Semester 6\C#\Lab Task\GUI Practice\bin\Debug\GUI Practice.exe.config
+E:\Semester 6\C#\Lab Task\GUI Practice\bin\Debug\GUI Practice.exe
+E:\Semester 6\C#\Lab Task\GUI Practice\bin\Debug\GUI Practice.pdb
+E:\Semester 6\C#\Lab Task\GUI Practice\obj\Debug\GUI Practice.csprojAssemblyReference.cache
+E:\Semester 6\C#\Lab Task\GUI Practice\obj\Debug\GUI_Practice.Form1.resources
+E:\Semester 6\C#\Lab Task\GUI Practice\obj\Debug\GUI_Practice.Properties.Resources.resources
+E:\Semester 6\C#\Lab Task\GUI Practice\obj\Debug\GUI Practice.csproj.GenerateResource.cache
+E:\Semester 6\C#\Lab Task\GUI Practice\obj\Debug\GUI Practice.csproj.CoreCompileInputs.cache
+E:\Semester 6\C#\Lab Task\GUI Practice\obj\Debug\GUI Practice.exe
+E:\Semester 6\C#\Lab Task\GUI Practice\obj\Debug\GUI Practice.pdb
