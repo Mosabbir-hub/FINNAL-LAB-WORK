@@ -35,34 +35,37 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(189, 120);
+            this.button1.Location = new System.Drawing.Point(537, 150);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(182, 47);
+            this.button1.Size = new System.Drawing.Size(262, 47);
             this.button1.TabIndex = 0;
-            this.button1.Text = "ADD USER";
+            this.button1.Text = "EDIT USER";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(425, 120);
+            this.button2.Location = new System.Drawing.Point(146, 150);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(236, 47);
+            this.button2.Size = new System.Drawing.Size(275, 47);
             this.button2.TabIndex = 1;
-            this.button2.Text = "EDIT USER";
+            this.button2.Text = "ADD USER";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(933, 450);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.Name = "Form2";
-            this.Text = "Form2";
+            this.RightToLeftLayout = true;
+            this.Text = "DASHBOARD";
             this.ResumeLayout(false);
 
         }
