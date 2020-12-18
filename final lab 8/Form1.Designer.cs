@@ -88,9 +88,9 @@
             this.buttonSubmit.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.buttonSubmit.Font = new System.Drawing.Font("Cambria", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonSubmit.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.buttonSubmit.Location = new System.Drawing.Point(439, 211);
+            this.buttonSubmit.Location = new System.Drawing.Point(439, 215);
             this.buttonSubmit.Name = "buttonSubmit";
-            this.buttonSubmit.Size = new System.Drawing.Size(91, 37);
+            this.buttonSubmit.Size = new System.Drawing.Size(91, 33);
             this.buttonSubmit.TabIndex = 5;
             this.buttonSubmit.Text = "log in";
             this.buttonSubmit.UseVisualStyleBackColor = false;
@@ -103,15 +103,17 @@
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button1.Location = new System.Drawing.Point(286, 215);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(90, 33);
+            this.button1.Size = new System.Drawing.Size(104, 33);
             this.button1.TabIndex = 6;
             this.button1.Text = "Exit";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // LoginForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.ClientSize = new System.Drawing.Size(747, 389);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.buttonSubmit);

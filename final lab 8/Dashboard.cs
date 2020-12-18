@@ -27,5 +27,10 @@ namespace final_lab_8
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

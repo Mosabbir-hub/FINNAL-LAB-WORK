@@ -526,6 +526,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.ClientSize = new System.Drawing.Size(863, 709);
             this.Controls.Add(this.buttonClick);
             this.Controls.Add(this.richTextBoxInformation);
@@ -570,7 +571,7 @@
             this.Controls.Add(this.labelFirstName);
             this.Controls.Add(this.labelPersonalInfo);
             this.Name = "InformationForm";
-            this.Text = "InformationForm";
+            this.Text = "INFORMATION ";
             this.ResumeLayout(false);
             this.PerformLayout();
 
