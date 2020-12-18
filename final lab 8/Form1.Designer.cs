@@ -43,9 +43,9 @@
             this.label1.Font = new System.Drawing.Font("Cambria", 24F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(317, 22);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(168, 37);
+            this.label1.Size = new System.Drawing.Size(181, 37);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Login InFo";
+            this.label1.Text = "Login Form";
             // 
             // labelUserName
             // 

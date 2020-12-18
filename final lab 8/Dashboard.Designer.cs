@@ -48,9 +48,9 @@
             // 
             this.buttonAdd.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonAdd.Font = new System.Drawing.Font("Cambria", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonAdd.Location = new System.Drawing.Point(196, 145);
+            this.buttonAdd.Location = new System.Drawing.Point(196, 162);
             this.buttonAdd.Name = "buttonAdd";
-            this.buttonAdd.Size = new System.Drawing.Size(149, 66);
+            this.buttonAdd.Size = new System.Drawing.Size(149, 49);
             this.buttonAdd.TabIndex = 1;
             this.buttonAdd.Text = "ADD USER";
             this.buttonAdd.UseVisualStyleBackColor = false;
@@ -60,9 +60,9 @@
             // 
             this.button2.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.button2.Font = new System.Drawing.Font("Cambria", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(413, 145);
+            this.button2.Location = new System.Drawing.Point(413, 162);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(151, 66);
+            this.button2.Size = new System.Drawing.Size(151, 49);
             this.button2.TabIndex = 2;
             this.button2.Text = "EDIT USER";
             this.button2.UseVisualStyleBackColor = false;
